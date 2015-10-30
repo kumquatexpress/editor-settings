@@ -1,6 +1,11 @@
 {
 	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"draw_white_space": "all",
 	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"tab_size": 2,
 	"theme": "Broceanic.sublime-theme"
 }
