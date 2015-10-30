@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Better CoffeeScript",
+		"Coffee2Js",
+		"EclipseJavaFormatter",
+		"EditorConfig",
+		"Git",
+		"Github Tools",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"JSLint",
+		"JSX",
+		"LESS",
+		"Markdown Preview",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"Pretty Ruby",
+		"Pretty YAML",
+		"Puppet",
+		"Python PEP8 Autoformat",
+		"ReactJS",
+		"Ruby Debugger",
+		"RubyEval",
+		"ScalaFormat",
+		"SublimeLinter-contrib-puppet",
+		"SublimeLinter-contrib-puppet-lint",
+		"SublimeSBT",
+		"Theme - Broceanic",
+		"Theme - Nexus",
+		"Theme - Orchis"
+	]
+}
