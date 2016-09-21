@@ -1,13 +1,39 @@
 {
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.log",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
 	"caret_style": "solid",
 	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
 	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"node_path": "/Users/boyang/.nvm/versions/node/v6.2.1/bin/node",
 	"tab_size": 2,
 	"theme": "Broceanic.sublime-theme",
 	"translate_tabs_to_spaces": true

@@ -5,17 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"apiDoc Autocompletion",
 		"Babel",
-		"Better CoffeeScript",
-		"Coffee2Js",
-		"EclipseJavaFormatter",
 		"EditorConfig",
 		"Git",
 		"Github Tools",
 		"HTML-CSS-JS Prettify",
 		"JSCS-Formatter",
 		"JsFormat",
-		"JSLint",
 		"JSX",
 		"LESS",
 		"Markdown Preview",
@@ -25,18 +22,12 @@
 		"Pretty JSON",
 		"Pretty Ruby",
 		"Pretty YAML",
-		"Puppet",
 		"Python PEP8 Autoformat",
 		"ReactJS",
 		"Ruby Debugger",
 		"RubyEval",
-		"ScalaFormat",
 		"SCSS",
-		"SublimeLinter-contrib-puppet",
-		"SublimeLinter-contrib-puppet-lint",
-		"SublimeSBT",
 		"Theme - Broceanic",
-		"Theme - Nexus",
-		"Theme - Orchis"
+		"Theme - Nexus"
 	]
 }
